@@ -33,6 +33,6 @@ then please import "db_bacteria2.sql" to your database,after that ,you need to e
 
 More information
 If you have any question, connect us freely!
-http://2013.igem.org/Team:SUSTC-Shenzhen-B
+[http://2013.igem.org/Team:SUSTC-Shenzhen-B](http://2013.igem.org/Team:SUSTC-Shenzhen-B)
 igem2013@sustc.edu.cn
 

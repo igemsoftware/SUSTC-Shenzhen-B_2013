@@ -28,7 +28,7 @@
         function check_login(){
             var userstatus = $.ajax({
                 type: "GET",
-                url: "http://sustc-genome.org.cn/igem2013/comments/check.php",
+                url: "comments/check.php",
                 dataType: "html"
             });
             userstatus.done(function(data){
@@ -48,7 +48,7 @@
             ecoid = $("#Ecoid")[0].childNodes[0].data;
             var content = $.ajax({
                 type: "GET",
-                url: "http://sustc-genome.org.cn/igem2013/comments/getcomments.php?id="+ecoid,
+                url: "comments/getcomments.php?id="+ecoid,
                 dataType: "html"
             });
             content.done(function(data){
@@ -60,7 +60,7 @@
             ecoid = $("#Ecoid")[0].childNodes[0].data;
             var cp = $.ajax({
                 type: "GET",
-                url: "http://sustc-genome.org.cn/igem2013/comments/addcomment.php",
+                url: "comments/addcomment.php",
                 data:{id:ecoid,user:$("#comment_user").val(),content:$("#comment_area").val()},
                 dataType: "html"
             });
@@ -76,7 +76,7 @@
             $("#btn_login").click(function(){
                 var login_status = $.ajax({
                     type: "GET",
-                    url: "http://sustc-genome.org.cn/igem2013/comments/login.php",
+                    url: "comments/login.php",
                     data:{username:$("#login_user").val(),password:$("#login_password").val()},
                     dataType: "html"
                 });
@@ -87,7 +87,7 @@
             $("#btn_logout").click(function (){
                 var logout_status = $.ajax({
                     type: "GET",
-                    url: "http://sustc-genome.org.cn/igem2013/comments/logout.php",
+                    url: "comments/logout.php",
                     dataType: "html"
                 });
                 check_login();

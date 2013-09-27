@@ -1,11 +1,34 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 var diameter = "1200",
     i = 0,
     root,
 	node,
 	nodes;
 
+
 var tree = d3.layout.tree()
-.size([360, diameter/2]);
+.size([360, diameter]);
 
 var diagonal = d3.svg.diagonal()
 .projection(function (d) {

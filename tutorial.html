@@ -12,9 +12,10 @@
     <script src="js/latestcircuit.js" type="text/javascript"></script>
     <script src="bootstrap/js/bootstrap.js" type="text/javascript"></script>
     <style type="text/css">
+	p{text-indent:35px; font-size:10px}
+	#footer{color:rgb(245,245,245)}
 	</style>
 </head>
-
 <body>
 <div class="navbar navbar-fixed-top navbar-inverse">
         
@@ -38,49 +39,140 @@
         </span>
     
         </div>
-    </div>
-    <div class="container" style="padding:82px">
-    <div class="span3 offset9" ><button class="btn btn-link btn-large">TEXT&amp;IMAG</button><button class="btn btn-link btn-large">VIDEO</button></div>
+</div>
+<div class="container" style="padding:82px;" >
+  <div class="row" style="margin-top:50px">
+     <div class="span3" style="position:fixed">
+          <ul class="nav nav-list" style="background-color:rgb(245,245,245); border-radius:10px">
+          <li class="nav-header">NAVIGATOR</li>
+          <li class="active"><a href="#">VIDEO</a></li>
+          <li><a href="#video">Tutorial video</a></li>
+          <li class="active"><a href="#">TEXT&amp;IMAGE</a></li>
+          <li><a href="#mindroad">How to use mindroad to find a project?</a></li>
+          <li><a href="#circuitlist">How to use Circuit List to find a project?</a></li>
+          <li><a href="#comment">How to add your comment?</a></li>
+          <li><a href="#submit">How to submit my project</a></li>
+          <li><a href="#lgd">How to use Logic Genetic Designer for your design?</a></li>
+          <li><a href="#star">how do we evaluate a project?</a></li>
+          <li class="nav-footer" id="footer">a</li>
+
+     </ul>
+  </div>
+   
+  <div class="span9 offset3" id="mindroad">
+    <p class="lead" >1. You can choose to enter Mindroad or CircuitList by clicking the arrow button and clicking the corresponding enter button. </p>
     <div class="well">
-    <p class="lead">1.This is our <strong>homepage</strong>. You can choose to enter Mindroad or CircuitList by clicking the<strong> arrow button</strong> and clicking the corresponding <strong>enter button.</strong></p>
-    <div class="well" style="background: rgba(10,10,10,.2);">
-    <img  src="img/tutoimg/tuto01.png"/>
+    <img src="img/tutoimg/tuto01.png" />
+    </div>   
+  </div>
+  
+  <div class="span9 offset3">
+    <p class="lead">2.Click “Circuits registry”. We arrange projects into nine groups: Art, Energy, Game, Environment Protection, Modeling, Livehood, Industry, Health and Argricuture.
+    </p>
+    <div class="well">
+    <img src="img/tutoimg/tuto02.png" />
+    </div>   
+  </div>
+  
+  <div class="span9 offset3">
+    <p class="lead">3.Click “Eco900_00” to view the detail information of this project. Eco900_00 is the unique identification number for this project in our database
+    </p>
+    <div class="well">
+    <img src="img/tutoimg/tuto10.png" />
+    </div>   
+  </div>
+  
+  <div class="span9 offset3">
+    <p class="lead" >4.For each project ,we have information on four aspect: general description, protocol, comments, circuits and reference. </p>
+    <div class="well">
+    <img src="img/tutoimg/tuto03.png" />
+    </div>   
+  </div>
+  
+   <div class="span9 offset3" id="comment">
+    <p class="lead">5.For each project ,before you add your comment ,you should log in.  </p>
+    <div class="well">
+    <img src="img/tutoimg/tuto11.png" />
+    </div>   
+  </div>
+  
+  <div class="span9 offset3" id="lgd">
+    <p class="lead">6.Click the button at the bottom of the tap, you will enter the Logic Genetic Designer page. </p>
+    <div class="well">
+    <img src="img/tutoimg/tuto04.png" />
+    </div>   
+  </div>
+  
+  <div class="span9 offset3" >
+    <p class="lead" >7. LGD is a genetic circuit CAD that can present the detail information of the engineering bacteria and “calculate” the relationship of related parts based on our database. </p>
+    <div class="well">
+    <img src="img/tutoimg/lgd01.png" />
+    </div>   
+  </div>
+  
+  <div class="span9 offset3" >
+    <p class="lead" >8. You can get the part information when your mouse over it .</p>
+    <div class="well">
+    <img src="img/tutoimg/lgd02.png" />
+    </div>   
+  </div>
+  
+  <div class="span9 offset3" >
+    <p class="lead" >9.Add coding frame and parts freely. </p>
+    <div class="well">
+    <img src="img/tutoimg/lgd03.png" />
+    <img src="img/tutoimg/lgd04.png" />
+    </div>   
+  </div>
+  
+  <div class="span9 offset3" >
+    <p class="lead" >10. You can drag and drop the parts freely, we will generate the relationship dynamically</p>
+    <div class="well">
+    <img src="img/tutoimg/lgd06.png" />
+    </div>   
+  </div>
+  
+  <div class="span9 offset3" >
+    <p class="lead" >11. Press Save button you will have a local file xxx.lgd storing your own information about this circuit.
+And you can open and edit it or shearing it with mindroad  </p>
+    <div class="well">
+    <img src="img/tutoimg/lgd09.png" />
+    </div>   
+  </div>
+  
+  <div class="span9 offset3" id="submit">
+    <p class="lead" >12.Click the “submit” in the homepage, you will enter the submit page. Fill out the table step by step , your project will be uploaded to our server. We will manually check your submission, your project will be added to database.
+</p>
+    <div class="well">
+    <img src="img/tutoimg/tuto06.png" />
+    </div>   
+  </div>
+  
+  <div class="span9 offset3" id="circuitlist">
+    <p class="lead" >13.CircuitList is a complete list of all the projects in our database. You can choose the sort order by clicking the sort button . You can also check the latest project by clicking the latest projects button. </p>
+    <div class="well">
+    <img src="img/tutoimg/tuto08.png" />
+    </div>   
+  </div>
+  
+   <div class="span9 offset3" id="star">
+    <p class="lead" >14. We have divide the projects into three groups </p>
+    <div class="well">
+    <p class="lead">1 star: reported to be functional in peer-reviewed journals</p>
+    <p class="lead">2 stars: reported by one iGEM team and independently successfully reproduced by another iGEM team</p>
+    <p class="lead">3 stars: reported by one iGEM team"</p>
     </div>
-    <br/>
-    <p class="lead">2.This is <strong>Mindroad</strong>. Click the <strong>bubble</strong> on the screen , several <strong>children bubble</strong> will popup .Then click any of these children bubbles you like , the corresponding children bubbles will <strong>popup</strong>.In this way, you can find a specific project.</strong></p>
-    <div class="well" style="background: rgba(10,10,10,.2);">
-    <img  src="img/tutoimg/tuto02.png"/>
-    <img  src="img/tutoimg/tuto10.png"/>
-    </div>
-    <br/>
-    <p class="lead">3.Click the <strong>bacteria number</strong>, a <strong>tap</strong> will popup. In this tap ,you can get<strong> suffcient information </strong>about the project you chose.</strong></p>
-    <div class="well" style="background: rgba(10,10,10,.2);">
-    <img  src="img/tutoimg/tuto03.png"/>
-    </div>
-     <br/>
-    <p class="lead">4.Click the button at the bottom of the tap, you will enter the <strong>Logic Genetic Designer</strong> page.</p>
-    <div class="well" style="background: rgba(10,10,10,.2);">
-    <img  src="img/tutoimg/tuto04.png"/>
-    </div>
-     <br/>
-    <p class="lead">5.In The<strong> LGD </strong>page, you can drag and drop any parts as you like. You can also delete parts or add parts, LGD can help calculate the relationship of every part of the new circuit.</p>
-    <div class="well" style="background: rgba(10,10,10,.2);">
-    <img  src="img/tutoimg/tuto05.png"/>
-    </div>
-     <br/>
-     <p class="lead">6.Click the <strong>submit button</strong> in the navi, you will enter the submit page. fill out the table step by step , your project will be uploaded to our server. If passing our examnation,<strong> your project will be added to Mindroad and CircuitList.</strong></p>
-    <div class="well" style="background: rgba(10,10,10,.2);">
-    <img  src="img/tutoimg/tuto06.png"/>
-    <img  src="img/tutoimg/tuto07.png"/>
-    </div>
-     <br/>
-    <p class="lead">7.<strong>CircuitList</strong> is a <strong>list</strong> of all the projects in our database. You can choose the sort order by clicking the sort button . You can also check the <strong>latest project</strong> by clicking the latest projects button. All the projects <strong>provided by our users </strong>will be show on the latest projects page. </p>
-    <div class="well" style="background: rgba(10,10,10,.2);">
-    <img  src="img/tutoimg/tuto08.png"/>
-    <img  src="img/tutoimg/tuto09.png"/>
-    </div>
-    
-    </div>
-    </div>
+  </div>
+  <div class="span9 offset3" id="video">
+     <div class="well" style="text-align:center">
+     <p class="lead">Tutorial video</p>
+     <embed src="http://player.youku.com/player.php/sid/XNjE0NTI3NTI0/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash" ></embed>
+     <iframe  width="560" height="0" src="//www.youtube.com/embed/gYpSSqt5nFk" frameborder="0" allowfullscreen style="overflow:hidden"></iframe>
+     </div>
+   </div>
+  
+  </div>
+  
+</body>
 </body>
 </html>

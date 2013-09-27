@@ -1,14 +1,12 @@
 getJSON_02(
 [
-        {   
-            "name": "SUSTC Shenzhen-A",
-            "des": "This is just for test.",
-            "bacterianum": "SUSTC"
+  
+         {"name": "Cell Magic","des": "Cell Magic about time and space.Life, the most brilliant magic in the universe, celebrated with the ability of reproduction and revolution. And the magic, is based on a sophisticated mechanism, called cell cycle. Most genetic reactions in a cell are regulated, directly or indirectly, by cell cycle. As we wish to build artificial lives, it is worthwhile to learn from the exquisite design of creature, to make use of cell cycle. As a pioneer study, we try to performing a \"Cell Magic\", by capturing cell cycle with fantastic reporters. By grasping the usage of cell cycle tools, we are promised to direct refined actions in a cell. For instance, when producing Paclitaxel (harmful to centrosome in S phase) with a cell factory, we may able to transport it out before it comes detrimental.","bacterianum": "Eco900_06"
         },
-         {
-            "name": "Pepdex",
-            "des": "This is just for test.",
-            "bacterianum": "HCU"
+        {"name": "iPS safeguard","des": "A novel device to prevent iPS cells to become inappropriate cells. This summer, iGEM team of SYSU-China comes up with a new strategy to solve minimize the tumorigenesis risks of iPSCs: We designed a device which can select the right kind of cells from induced cell mass and retain selection pressure to remove cancerous cells. During differentiation, wrong kinds of or undifferentiated cells will undergo senescence and the transferred cells can be cultured and brought into further usage. After cells are transplanted into organ of patient, the spontaneous cancerous cells can be cleared.","bacterianum": "Eco900_07"
+        },
+        {"name": "Game Theory","des": "There are many applications of the game theory in some aspects of our life. Each individual has two kinds of choices--to betray or stay silent, and the choice you make would determine your fate. To betray the other side, you may risk being revenged. While staying silent, companion's betrayal may hurt you deeply. As for our project, we work out a new way to imitate the game theory by constructing a community of two E.Coli bacteria. Here we use the growth rate of each species to represent its fate. The effect of one's silent or betrayal on the other species' fate is acted through intercellular signal molecules of two quorum sensing systems. Each signal molecule regulates the expression of toxic genes in the other species and reduces its growth rate. We characterize the consequence of each strategy by quantitatively measure the growth rates of each species in the community.","bacterianum": "Eco900_05"
         }
+
 ]
 )

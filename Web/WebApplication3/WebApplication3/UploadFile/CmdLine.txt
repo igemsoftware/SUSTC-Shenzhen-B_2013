@@ -1,0 +1,16 @@
+
+命令行选项 : PotPlayer[Mini].exe "文件名" [选项]
+
+/filedlg		: 打开文件对话框
+/urldlg		: 打开网址对话框
+/folderdlg		: 打开文件夹对话框
+/simple		: 简易打开文件对话框
+/cap		: 捕获画面
+/cam		: 摄像头等装置设置
+/atv		: 模拟 TV
+/dtv		: 数字 TV
+/dvd		: 打开默认 DVD
+/cd		: 打开 CD
+/add		: 添加播放目录
+config=方案名称    : 选择指定的方案
+

@@ -1,0 +1,45 @@
+E:\Biology\Igem\练习编程\WebApplication3\WebApplication3\bin\WebApplication3.dll
+E:\Biology\Igem\练习编程\WebApplication3\WebApplication3\bin\WebApplication3.pdb
+E:\Biology\Igem\练习编程\WebApplication3\WebApplication3\obj\Debug\ResolveAssemblyReference.cache
+E:\Biology\Igem\练习编程\WebApplication3\WebApplication3\obj\Debug\WebApplication3.dll
+E:\Biology\Igem\练习编程\WebApplication3\WebApplication3\obj\Debug\WebApplication3.pdb
+E:\Biology\Igem\练习编程\WebApplication3(要)\WebApplication3\bin\WebApplication3.dll
+E:\Biology\Igem\练习编程\WebApplication3(要)\WebApplication3\bin\WebApplication3.pdb
+E:\Biology\Igem\练习编程\WebApplication3(要)\WebApplication3\obj\Debug\ResolveAssemblyReference.cache
+E:\Biology\Igem\练习编程\WebApplication3(要)\WebApplication3\obj\Debug\WebApplication3.dll
+E:\Biology\Igem\练习编程\WebApplication3(要)\WebApplication3\obj\Debug\WebApplication3.pdb
+E:\Igem\练习编程\WebApplication3(要)\WebApplication3\bin\WebApplication3.dll
+E:\Igem\练习编程\WebApplication3(要)\WebApplication3\bin\WebApplication3.pdb
+E:\Igem\练习编程\WebApplication3(要)\WebApplication3\obj\Debug\ResolveAssemblyReference.cache
+E:\Igem\练习编程\WebApplication3(要)\WebApplication3\obj\Debug\WebApplication3.dll
+E:\Igem\练习编程\WebApplication3(要)\WebApplication3\obj\Debug\WebApplication3.pdb
+H:\WebApplication3(要)\WebApplication3\bin\WebApplication3.dll
+H:\WebApplication3(要)\WebApplication3\bin\WebApplication3.pdb
+H:\WebApplication3(要)\WebApplication3\obj\Debug\ResolveAssemblyReference.cache
+H:\WebApplication3(要)\WebApplication3\obj\Debug\WebApplication3.dll
+H:\WebApplication3(要)\WebApplication3\obj\Debug\WebApplication3.pdb
+C:\Users\Liuxing Shen\Desktop\c++\C#\WebApplication3(要)\WebApplication3\bin\WebApplication3.dll
+C:\Users\Liuxing Shen\Desktop\c++\C#\WebApplication3(要)\WebApplication3\bin\WebApplication3.pdb
+C:\Users\Liuxing Shen\Desktop\c++\C#\WebApplication3(要)\WebApplication3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Liuxing Shen\Desktop\c++\C#\WebApplication3(要)\WebApplication3\obj\Debug\WebApplication3.dll
+C:\Users\Liuxing Shen\Desktop\c++\C#\WebApplication3(要)\WebApplication3\obj\Debug\WebApplication3.pdb
+E:\C ++\C++Projects\web\projects\WebApplication3(要)\WebApplication3\bin\WebApplication3.dll
+E:\C ++\C++Projects\web\projects\WebApplication3(要)\WebApplication3\bin\WebApplication3.pdb
+E:\C ++\C++Projects\web\projects\WebApplication3(要)\WebApplication3\obj\Debug\ResolveAssemblyReference.cache
+E:\C ++\C++Projects\web\projects\WebApplication3(要)\WebApplication3\obj\Debug\WebApplication3.dll
+E:\C ++\C++Projects\web\projects\WebApplication3(要)\WebApplication3\obj\Debug\WebApplication3.pdb
+D:\My Documents\Visual Studio 2010\Projects\WebApplication3(要)-真的\WebApplication3(要)\WebApplication3\bin\WebApplication3.dll
+D:\My Documents\Visual Studio 2010\Projects\WebApplication3(要)-真的\WebApplication3(要)\WebApplication3\bin\WebApplication3.pdb
+D:\My Documents\Visual Studio 2010\Projects\WebApplication3(要)-真的\WebApplication3(要)\WebApplication3\obj\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2010\Projects\WebApplication3(要)-真的\WebApplication3(要)\WebApplication3\obj\Debug\WebApplication3.dll
+D:\My Documents\Visual Studio 2010\Projects\WebApplication3(要)-真的\WebApplication3(要)\WebApplication3\obj\Debug\WebApplication3.pdb
+F:\WebApplication3(要)-真的(2)\WebApplication3(要)-真的\WebApplication3(要)\WebApplication3\bin\WebApplication3.dll
+F:\WebApplication3(要)-真的(2)\WebApplication3(要)-真的\WebApplication3(要)\WebApplication3\bin\WebApplication3.pdb
+F:\WebApplication3(要)-真的(2)\WebApplication3(要)-真的\WebApplication3(要)\WebApplication3\obj\Debug\ResolveAssemblyReference.cache
+F:\WebApplication3(要)-真的(2)\WebApplication3(要)-真的\WebApplication3(要)\WebApplication3\obj\Debug\WebApplication3.dll
+F:\WebApplication3(要)-真的(2)\WebApplication3(要)-真的\WebApplication3(要)\WebApplication3\obj\Debug\WebApplication3.pdb
+D:\Web\WebApplication3(要)\WebApplication3\bin\WebApplication3.dll
+D:\Web\WebApplication3(要)\WebApplication3\bin\WebApplication3.pdb
+D:\Web\WebApplication3(要)\WebApplication3\obj\Debug\ResolveAssemblyReference.cache
+D:\Web\WebApplication3(要)\WebApplication3\obj\Debug\WebApplication3.dll
+D:\Web\WebApplication3(要)\WebApplication3\obj\Debug\WebApplication3.pdb

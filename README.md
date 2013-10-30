@@ -20,7 +20,7 @@ Chrome, Firefox,IE10, safary is recommand
 		--Code       #Core updating of TTEC
 		-comments    #Server side for comments
 		-css         #Style
-		-css1        
+		-css1        #Style for the main part
 		-img         #Pictures used
 		-bootstrap
 
